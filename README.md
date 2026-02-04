@@ -18,22 +18,20 @@ I enjoy working on hands-on projects that challenge me to think critically, writ
 ---
 
 ### 📌 Featured Projects
-- **Lead Scraper**  
-  Python-based web scraping tool that collects and structures publicly available business lead data. Built to practice automation, data parsing, and backend development concepts.
-
 - **LoL Champion Pool Coach**  
-  A Python project focused on helping players analyze and optimize champion pools using structured logic and data handling.
+  A Python-based tool designed to help players analyze and optimize their champion pool using structured logic and data handling. Built to strengthen problem-solving skills and apply backend-style reasoning in a practical context.
+
+- **Clinic-AI-Assistant**  
+  An AI-powered chatbot project focused on natural language interaction, logic flow, and backend fundamentals. Built to explore how conversational systems work and to gain hands-on experience with integrating AI concepts into functional applications.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osman-Raza&show_icons=true&theme=dark" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osman-Raza&theme=dark" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osman-Raza&show_icons=true&theme=dark&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osman-Raza&theme=dark)
+
 
 ---
 
