@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science 1 student @ McMaster University with a strong interest in building practical, real-world software. I’m currently developing my skills in Python, programming fundamentals, and problem-solving, while exploring areas like backend development, computer vision, and data handling. I enjoy working on hands-on projects that challenge me to think critically, write clean code, and continuously improve as a developer. I’m motivated by learning through doing and am always looking for opportunities to grow my technical skills and apply them in meaningful ways.<br>
+I’m a Computer Science student at McMaster University with a strong interest in building practical, real-world software. I’m currently developing my skills in Python, programming fundamentals, and problem-solving, while exploring areas like backend development, automation, and data handling. I enjoy working on hands-on projects that challenge me to think critically, write clean code, and continuously improve as a developer. I’m motivated by learning through doing and am always looking for opportunities to grow my technical skills and apply them in meaningful ways.<br>
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@ I’m a Computer Science 1 student @ McMaster University with a strong interest 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=osman-raza&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=osman-raza&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=osman-raza&icon=0&color=0)](https://visitcount.itsvg.in)
